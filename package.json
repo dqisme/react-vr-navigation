@@ -1,21 +1,21 @@
 {
-  "name": "react-vr-walk",
-  "version": "0.0.1",
-  "description": "Wall around your ReactVr app with WASD!",
+  "name": "react-vr-navigation",
+  "version": "0.1.0",
+  "description": "Navigate your space.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apoeco/react-vr-walk.git"
+    "url": "git+https://github.com/dqisme/react-vr-navigation.git"
   },
-  "author": "Apostolis Economou",
+  "author": "dq",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apoeco/react-vr-walk/issues"
+    "url": "https://github.com/dqisme/react-vr-navigation/issues"
   },
-  "homepage": "https://github.com/apoeco/react-vr-walk#readme",
+  "homepage": "https://github.com/dqisme/react-vr-navigation#readme",
   "devDependencies": {
     "eslint": "^4.7.0",
     "eslint-config-prettier": "^2.6.0",
